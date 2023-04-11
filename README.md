@@ -1,4 +1,4 @@
-# Đồ án Python:
-Trần Trọng Trường
-Phạm Thành Nhân
-Lê Trung Tín
+Đồ án Python:
+Trần Trọng Trường,
+Phạm Thành Nhân,
+Lê Trung Tín,
